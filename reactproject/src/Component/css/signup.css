@@ -1,0 +1,13 @@
+/* Add this to your existing CSS file or create a new one */
+
+.signupin-container {
+    background-color: #f4f4f4; /* Set your desired background color */
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 8px; /* Add border radius for rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    /* Center the container on the page */
+    text-align: center; /* Center the content horizontally */
+  }
+  
+  /* Add any other styling as per your design preferences */
+  
