@@ -5,7 +5,7 @@ function Navbar() {
       <div style={{margin:'10px'}}>
       <nav>
     <div className="logo-container">
-        <h1>WANDERLUST DIARIES</h1>
+        <h1 >WANDERLUST DIARIES</h1>
 
     </div>
     <ul>

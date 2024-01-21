@@ -1,0 +1,7 @@
+server:
+  port: 8090
+spring:
+  profiles:
+    active: native
+    # by default profile is checking from the git check based on your application 
+    
